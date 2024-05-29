@@ -1,7 +1,7 @@
 # COVID-19 Data Exploration
 ## Overview
 The COVID-19 Data Exploration project aims to derive meaningful insights from a comprehensive dataset on COVID-19. The dataset includes key metrics such as total cases, new cases, total deaths, population statistics, and vaccination data across various locations and dates. The primary objective is to utilize SQL techniques to explore and understand the data, revealing patterns and trends related to the pandemic.
-
+## Dataset
 In this project I analyzed COVID 19 Deaths and Vaccination data.
 The original dataset was downloaded from [here](https://ourworldindata.org/covid-deaths). The .csv file was then seperated into the "CovidDeaths.csv" and "CovidVaccinations.csv"
 ## Skills Utilized
